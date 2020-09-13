@@ -90,7 +90,7 @@
     "line-replace": "^1.0.2",
     "lodash.debounce": "^4.0.8",
     "mkdirp": "^0.5.1",
-    "node-fetch": "^2.3.0",
+    "node-fetch": "^2.6.1",
     "openssl-wrapper": "^0.3.4",
     "pkg": "^4.3.7",
     "promise-retry": "^1.1.1",
